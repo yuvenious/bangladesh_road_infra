@@ -4,6 +4,9 @@ New README file
 
 - The second head
 
+1) enumerate head
+2) enumerate head
+
 .. code:: python
 
    print("A literal block directive explicitly marked as python code")
