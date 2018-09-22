@@ -11,4 +11,13 @@ This is how it looks like in the beginning and after the cleaning.
 
 The cleaning process highly utilizes **local regression** method, one of the machine learning algorithms. By detecting outliers in this way and re-locating them onto the most probable location, the road data was corrected in the right order:
 
-![1](https://user-images.githubusercontent.com/37578231/37669467-3263bf14-2c67-11e8-8c2a-9e32f334d396.png)
+![2](https://user-images.githubusercontent.com/37578231/45920976-d317ba00-beac-11e8-9648-f59f98b34c56.png)
+
+Simulation Model
+---------------
+
+Data Visualization
+---------------
+
+Connect with mySQL
+---------------
