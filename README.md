@@ -26,4 +26,4 @@ The main purpose is to show explicitly how traffic volume and its economic value
 Integrate with mySQL
 ---------------
 Simio simulation model and Python visualization tool are integrated on the mySQL (middle ware) environment. The simulation data is flowing from Simio model through mySQL to Python in order to visualize the state variables in our interest. In other way around, some events can be triggered from Python script (such as bridges are broken) and the events occurs in Simio **during its execution**.
-![4](https://user-images.githubusercontent.com/37578231/45921163-a5cd0b00-beb0-11e8-9185-e0715e616303.png)
+![4](https://user-images.githubusercontent.com/37578231/45921246-44a63700-beb2-11e8-85dc-d8191d01090d.png)
